@@ -1,0 +1,116 @@
+body{
+	background-color: #f4f4f4;
+	font-family: Open Sans;
+}
+img{
+	width: 100%;
+	display: block;
+}
+a{
+	text-decoration: none;
+	color: #16222d;
+}
+.udemy{
+	width: 1160px;
+	height: 700px;
+}
+.udemy .block{
+	width: 270px;
+	margin: 10px;
+	float: left;
+	background-color: #fff;
+}
+.udemy .block:hover{
+	opacity: 0.8;
+}
+.udemy .info{
+	padding: 10px 10px 0;
+	height: 140px;
+}
+.udemy .info h3{
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.2;
+	margin: 0;
+}
+.udemy .info p{
+	font-size: 14px;
+	color: #8190a1;
+    margin-top: 5px;
+}
+.plus {
+    padding: 0 10px 15px;
+}
+.plus{
+	color: #8190a1;
+}
+.plus .fa{
+	font-size: 20px;
+}
+.plus .user {
+    font-size: 13px;
+}
+.plus .price{
+	float: right;
+	font-size: 20px;
+    font-weight: 700;
+    color: #333;
+}
+.plus .old-price{
+	font-size: 16px;
+    margin-left: 10px;
+    color: rgba(0,0,0,.55);
+    font-weight: 400;
+    text-decoration: line-through;
+}
+
+/*Ted.com*/
+.ted{
+	width: 1140px;
+	height: 700px;
+}
+.sub-ted{
+	width: 271px;
+	margin: 7px;
+	background-color: #fff;
+	float: left;
+}
+.ted .info{
+	padding: 5px 10px 10px;
+	height: 70px;
+}
+.ted .talk {
+    font-size: 11px;
+    padding: 1px 3px;
+    background-color: rgba(17, 17, 17, 0.8);
+    color: #fff;
+    display: inline-block;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+.ted .title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #333;
+}
+/*Hoa hoc tro*/
+.hht{
+	font-family: Arial;
+	color: #fff;
+	width: 370px;
+	background-color: #f34764;
+}
+.hht .info{
+	padding: 10px;
+}
+.hht .title{
+	color: #fff;
+	font-size: 18px;
+	font-weight: 700;
+}
+.hht p{
+	padding: 8px 0;
+	margin: 0;
+	font-size: 12px;
+}
